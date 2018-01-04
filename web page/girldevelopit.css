@@ -1,0 +1,33 @@
+/*
+* Kate Bowers
+* 11/21/17
+* Girl Develop It Project
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body { 
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: lightpink;}
+p { font-family: Arial;
+	background-color: lightpink;
+	color: black
+	font-size: 95% ;}
+h1 { font-family: "apple chancery", Cursive;
+	font-size: 130%
+	background-color: lightpink}
+a:link{
+	color: blue; }
+/*this changes the color of the link and helps it make it larger and different color when you put your mouse over it*/
+a:hover, a:focus {
+	color: fuchsia;
+	font-size: 130% }
+	
+img { float; left; }

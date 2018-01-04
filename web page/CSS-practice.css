@@ -1,0 +1,32 @@
+/*
+* Kate Bowers
+* 11-7-17
+* CSS Practice
+*/
+
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Put body attributes here */
+
+body{ 
+font-family: "Courier New", Courier, monospace; font-size: 100%;
+}
+	background-color: rgb(200.200.200);}
+h2  { 
+	background-color: #ee3e80;}
+p   {
+	background-color: white;}
+
+h1{
+	background-color: Tan;
+	font-size: 500%;
+	text-align: center;
+	text-transform: uppercase;
+	text-decoration: underline overline;
+}
+img { alt float: left;}
